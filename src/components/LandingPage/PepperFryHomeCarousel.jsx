@@ -1,7 +1,7 @@
 import { useState, useRef } from "react";
 import Carousel from "react-elastic-carousel";
 import styled from "styled-components";
-import styles from './homeHeroComponent.module.css';
+import './homeHeroComponent.module.css';
 
 const Button = styled.button`
   margin: 10px 5px;

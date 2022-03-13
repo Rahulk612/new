@@ -1,4 +1,4 @@
-import styles from './homeHeroComponent.module.css';
+import './homeHeroComponent.module.css';
 
 const BankBanner = () => {
     return (
